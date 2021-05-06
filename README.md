@@ -1,5 +1,7 @@
 # Exo3
 
+POUR LANCER LE PROJET SUR VOTRE ORDINATEUR , N'OUBLIEZ SURTOUT PAS DE FAIRE "npm i" AVANT.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
 ## Development server
