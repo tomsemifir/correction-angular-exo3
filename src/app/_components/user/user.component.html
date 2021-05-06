@@ -1,0 +1,5 @@
+<div>
+    <h3>{{user.nom}} {{user.prenom}}</h3>
+    <p>{{user.adresse.num}} {{user.adresse.rue}} {{user.adresse.ville}}</p>
+    <p *ngFor="let chat of user.chats">{{chat}}</p>
+</div>
